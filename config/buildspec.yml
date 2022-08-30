@@ -14,9 +14,9 @@ phases:
     on-failure: ABORT
     commands:
       - echo Linting project...
-      - ng lint
+      - npm run lint
       - echo Testing project...
-      - npm test
+      - npm run test
   build:
     commands:
       - echo Building project...
