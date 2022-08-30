@@ -100,6 +100,7 @@
   },
   "defaultProject": "name-that-cat",
   "cli": {
+    "analytics": "26807126-4490-4482-a07e-bbd40ecd5c02",
     "defaultCollection": "@angular-eslint/schematics"
   }
 }
